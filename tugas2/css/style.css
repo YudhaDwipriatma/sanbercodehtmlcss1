@@ -1,0 +1,43 @@
+body{
+    background-image: url(pattern.jpg);
+}
+header{
+    background-color:#fff;
+    margin: -8;
+
+}
+section{
+    background-color: white;
+    width: 800px;
+    height: 700px;
+    margin: auto;    
+}
+.navigasi{
+    float: right;
+    margin-right: 20px;
+}
+h1{
+    text-align: center;
+}
+
+.navigasi li{
+    display: inline;
+}
+footer{
+    text-align: center;
+    height: 50px;
+    width: 100%;
+    color: white;
+    background-color: black;
+    margin: auto;
+    line-height: 50px;
+}
+hr{
+    inline-size: 93%;
+}
+h3{
+    margin-left: 20px;
+}
+p{
+    margin-left: 10px;
+}
